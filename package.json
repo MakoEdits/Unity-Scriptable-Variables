@@ -1,0 +1,19 @@
+{
+	"name": "com.mako.scriptablevariables",
+	"version": "1.0.0",
+	"displayName": "Scriptable Variables",
+	"description": "Create ScriptableObject Variables to decouple code and data transference",
+	"unity": "2019.1",
+	"dependencies": { },
+	"keywords": [
+		"scriptables",
+		"scriptable objects",
+		"variable",
+		"variables"
+	],
+	"author": {
+		"name": "MakoEdits",
+		"url": "https://github.com/MakoEdits/Unity-Scriptable-Variables"
+	},
+	"type": "library"
+}
