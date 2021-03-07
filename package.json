@@ -1,5 +1,5 @@
 {
-	"name": "com.mako.scriptablevariables",
+	"name": "com.mako.scriptable-variables",
 	"version": "1.0.0",
 	"displayName": "Scriptable Variables",
 	"description": "Create ScriptableObject Variables to decouple code and data transference",
